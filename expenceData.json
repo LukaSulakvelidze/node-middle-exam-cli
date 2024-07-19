@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "date": "2024-07-19-22:25:32",
+    "expence": 143,
+    "category": "Groccery",
+    "Balance": 9857
+  },
+  {
+    "id": 2,
+    "date": "2024-07-19-22:25:39",
+    "expence": 42,
+    "category": "Market",
+    "Balance": 9958
+  },
+  {
+    "id": 3,
+    "date": "2024-07-19-22:25:51",
+    "expence": 15.99,
+    "category": "Subscritpion",
+    "Balance": 9984.01
+  },
+  {
+    "id": 4,
+    "date": "2024-07-19-22:26:07",
+    "expence": 1039.99,
+    "category": "Technic",
+    "Balance": 8960.01
+  },
+  {
+    "id": 5,
+    "date": "2024-07-19-22:29:31",
+    "expence": 199.99,
+    "category": "Shopping",
+    "Balance": 9800.01
+  },
+  {
+    "id": 6,
+    "date": "2024-07-19-22:30:03",
+    "expence": 816,
+    "category": "Car",
+    "Balance": 9184
+  },
+  {
+    "id": 7,
+    "date": "2024-07-19-22:30:11",
+    "expence": 50,
+    "category": "Gas",
+    "Balance": 9950
+  },
+  {
+    "id": 8,
+    "date": "2024-07-19-22:30:35",
+    "expence": 242,
+    "category": "House",
+    "Balance": 9758
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "shualeduri",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": {
+    "createCli": "create_expence.js",
+    "deleteCli": "delete_expence.js",
+    "searchCli": "search_expence.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
